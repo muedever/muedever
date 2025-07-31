@@ -8,6 +8,7 @@ F#推しの中学2年生です。C#、裏切ってすまん
 あと、<strong>F#</strong>です💢
 
 ## (ほんの)ちょっと書ける言語
+![](https://go-skill-icons.vercel.app/api/icons?i=vb&theme=light)
 ![](https://go-skill-icons.vercel.app/api/icons?i=rust&theme=light)
 ![](https://go-skill-icons.vercel.app/api/icons?i=ts&theme=light)
 ![](https://go-skill-icons.vercel.app/api/icons?i=js&theme=light)
