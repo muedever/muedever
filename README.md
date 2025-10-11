@@ -18,4 +18,4 @@ F#推しの中学2年生です。C#、裏切ってすまん
 ![](https://go-skill-icons.vercel.app/api/icons?i=java&theme=light)
 
 # リポジトリの言語の割合
-![](https://github-readme-stats.vercel.app/api/top-langs?username=MueLangDeveloper&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=muedever&layout=compact)
