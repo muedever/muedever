@@ -12,7 +12,9 @@ F#推しの中学2年生です。C#、裏切ってすまん
 あと、<strong>F#</strong>です💢
 
 ## (ほんの)ちょっと書ける言語
+
 ![](https://go-skill-icons.vercel.app/api/icons?i=vb,rust,ts,js,c,cpp,python,java&theme=light)
 
 # リポジトリの言語の割合
+
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=muedever&layout=compact)
