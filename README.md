@@ -1,6 +1,6 @@
-<div align="right">
+<!-- <div align="right">
   <img src="https://komarev.com/ghpvc/?username=muedever" />
-</div>
+</div> -->
 
 F#推しの中学2年生です。C#、裏切ってすまん
 
