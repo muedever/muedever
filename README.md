@@ -2,15 +2,15 @@
   <img src="https://komarev.com/ghpvc/?username=muedever" />
 </div> -->
 
-F#推しの中学2年生です。C#、裏切ってすまん
+I'm a second-year middle school student who loves F#. Sorry for betraying C#.
 
-自作言語の開発にハマっています。
+I'm hooked on developing programming languages.
 
-# 書ける言語
+# Programming Languages
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cs,fs" />
 
-あと、<strong>F#</strong>です💢
+**ALSO F#!**
 
-## (ほんの)ちょっと書ける言語
+## Programming languages I can write a little bit in
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=vb,rust,ts,js,c,cpp,python,java&theme=light)
