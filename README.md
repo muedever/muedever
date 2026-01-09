@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=muedever" />
 </div> -->
 
-I'm a second-year middle school student who loves F#. Sorry for betraying C#.
+I'm a Japanese second-year middle school student who loves F#. Sorry for betraying C#.
 
 I'm hooked on developing programming languages.
 
